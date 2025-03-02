@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESopXsov0SA=",
+  "success": true,
+  "projectFilePath": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\FileProcessingLibrary\\FileProcessingLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phath\\.nuget\\packages\\system.runtime.serialization.formatters\\9.0.0\\system.runtime.serialization.formatters.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

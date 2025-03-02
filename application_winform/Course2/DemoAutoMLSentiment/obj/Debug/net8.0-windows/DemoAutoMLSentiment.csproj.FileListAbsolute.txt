@@ -1,0 +1,7 @@
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.Form1.resources
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.csproj.GenerateResource.cache
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.AssemblyInfoInputs.cache
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.AssemblyInfo.cs
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.csproj.CoreCompileInputs.cache
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\DemoAutoMLSentiment\obj\Debug\net8.0-windows\DemoAutoMLSentiment.sourcelink.json

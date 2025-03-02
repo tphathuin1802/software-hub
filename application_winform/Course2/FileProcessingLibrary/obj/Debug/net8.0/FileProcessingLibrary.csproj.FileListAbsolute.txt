@@ -1,0 +1,12 @@
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\bin\Debug\net8.0\FileProcessingLibrary.deps.json
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\bin\Debug\net8.0\FileProcessingLibrary.dll
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\bin\Debug\net8.0\FileProcessingLibrary.pdb
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.AssemblyInfoInputs.cache
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.AssemblyInfo.cs
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.csproj.CoreCompileInputs.cache
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.dll
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\refint\FileProcessingLibrary.dll
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.pdb
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\ref\FileProcessingLibrary.dll
+D:\Lop1k\2024-2025\csharp_course\source_code\Course2\FileProcessingLibrary\obj\Debug\net8.0\FileProcessingLibrary.csproj.AssemblyReference.cache

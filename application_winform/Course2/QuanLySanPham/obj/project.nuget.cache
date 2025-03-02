@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ria0djIY4Dk=",
+  "success": true,
+  "projectFilePath": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPham\\QuanLySanPham.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phath\\.nuget\\packages\\system.runtime.serialization.formatters\\9.0.0\\system.runtime.serialization.formatters.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

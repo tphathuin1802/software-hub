@@ -1,0 +1,32 @@
+[
+  {
+    "Ma": "SP1",
+    "Ten": "Thuốc trị hội nách",
+    "SoLuong": 10,
+    "Gia": 100
+  },
+  {
+    "Ma": "SP2",
+    "Ten": "Thuốc trị lang beeng",
+    "SoLuong": 5,
+    "Gia": 30
+  },
+  {
+    "Ma": "SP3",
+    "Ten": "Thuốc trị xàm",
+    "SoLuong": 70,
+    "Gia": 20
+  },
+  {
+    "Ma": "SP4",
+    "Ten": "Thuốc trị ghẻ",
+    "SoLuong": 7,
+    "Gia": 25
+  },
+  {
+    "Ma": "SP5",
+    "Ten": "Thuốc trị lazy",
+    "SoLuong": 20,
+    "Gia": 40
+  }
+]

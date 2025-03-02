@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfYoKh7H0uw=",
+  "success": false,
+  "projectFilePath": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\SentimentMLModel_ConsoleApp\\SentimentMLModel_ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.ML (>= 3.0.1)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: nuget.",
+      "libraryId": "Microsoft.ML",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

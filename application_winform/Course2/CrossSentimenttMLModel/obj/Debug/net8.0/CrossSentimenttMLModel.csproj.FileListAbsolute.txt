@@ -1,0 +1,5 @@
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\CrossSentimenttMLModel\obj\Debug\net8.0\CrossSentimenttMLModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\CrossSentimenttMLModel\obj\Debug\net8.0\CrossSentimenttMLModel.AssemblyInfoInputs.cache
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\CrossSentimenttMLModel\obj\Debug\net8.0\CrossSentimenttMLModel.AssemblyInfo.cs
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\CrossSentimenttMLModel\obj\Debug\net8.0\CrossSentimenttMLModel.csproj.CoreCompileInputs.cache
+C:\DevProjects\03_Developments\.NetProjects\Course2_DAY11_10022025\Course2\CrossSentimenttMLModel\obj\Debug\net8.0\CrossSentimenttMLModel.sourcelink.json

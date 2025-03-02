@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\demoautomlsentiment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|solutionrelative:demoautomlsentiment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\dal\\danhmucconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|solutionrelative:dal\\danhmucconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\dal\\sanphamconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|c:\\devprojects\\software\\application_winforms\\course2\\emotionanalystapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|solutionrelative:emotionanalystapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|c:\\devprojects\\software\\application_winforms\\course2\\emotionanalystapp\\emotionanalystapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|solutionrelative:emotionanalystapp\\emotionanalystapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\emotionanalystapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C75E014-DF6F-4773-A90B-DD9B0E04697B}|EmotionAnalystApp\\EmotionAnalystApp.csproj|solutionrelative:emotionanalystapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FC07BE-FD71-44B8-8F29-108BEDC3E91B}|CrossSentimenttMLModel\\CrossSentimentMLModel.csproj|c:\\devprojects\\software\\application_winforms\\course2\\crosssentimenttmlmodel\\sentimentmlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{C4FC07BE-FD71-44B8-8F29-108BEDC3E91B}|CrossSentimenttMLModel\\CrossSentimentMLModel.csproj|solutionrelative:crosssentimenttmlmodel\\sentimentmlmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|c:\\devprojects\\software\\application_winforms\\course2\\demoautomlsentiment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|solutionrelative:demoautomlsentiment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68F4B8D-E9D4-4A1B-A37A-DF77943701A2}|ObjectModel\\ObjectModel.csproj|c:\\devprojects\\software\\application_winforms\\course2\\objectmodel\\sanphambinhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68F4B8D-E9D4-4A1B-A37A-DF77943701A2}|ObjectModel\\ObjectModel.csproj|solutionrelative:objectmodel\\sanphambinhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\quanlysanphamcsdl\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15774628-81B8-48D2-834C-54D18D7A1F19}|MLModel1_ConsoleApp\\MLModel1_ConsoleApp.csproj|c:\\devprojects\\software\\application_winforms\\course2\\mlmodel1_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15774628-81B8-48D2-834C-54D18D7A1F19}|MLModel1_ConsoleApp\\MLModel1_ConsoleApp.csproj|solutionrelative:mlmodel1_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|c:\\devprojects\\software\\application_winforms\\course2\\demoautomlsentiment\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{A14B1F26-3B08-4562-9813-6BBC4D2D96CE}|DemoAutoMLSentiment\\DemoAutoMLSentiment.csproj|solutionrelative:demoautomlsentiment\\mlmodel1.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\dal\\nhanvienconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|solutionrelative:dal\\nhanvienconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\dal\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C7838D-E082-4B97-9ED1-DB465070B940}|DAL\\DAL.csproj|solutionrelative:dal\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmdoimatkhautuquantri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdoimatkhautuquantri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmdoimatkhautuquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdoimatkhautuquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\quanlysanphamcsdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\quanlysanphamcsdl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|c:\\devprojects\\software\\application_winforms\\course2\\quanlysanphamcsdl\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68F4B8D-E9D4-4A1B-A37A-DF77943701A2}|ObjectModel\\ObjectModel.csproj|c:\\devprojects\\software\\application_winforms\\course2\\objectmodel\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68F4B8D-E9D4-4A1B-A37A-DF77943701A2}|ObjectModel\\ObjectModel.csproj|solutionrelative:objectmodel\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\quanlysanphamcsdl\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\quanlysanphamcsdl\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\quanlysanphamcsdl\\frmdoimatkhautuquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdoimatkhautuquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|C:\\DevProjects\\Software\\Application_WinForms\\Course2\\quanlysanphamcsdl\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2DBD1DF-688D-42E0-B1A3-1B778774EAD4}|QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj|solutionrelative:quanlysanphamcsdl\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmMain.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmMain.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:20:16.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\EmotionAnalystApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EmotionAnalystApp\\Form1.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\EmotionAnalystApp\\Form1.cs",
+              "RelativeToolTip": "EmotionAnalystApp\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:03:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmotionAnalystApp.csproj",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\EmotionAnalystApp\\EmotionAnalystApp.csproj",
+              "RelativeDocumentMoniker": "EmotionAnalystApp\\EmotionAnalystApp.csproj",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\EmotionAnalystApp\\EmotionAnalystApp.csproj",
+              "RelativeToolTip": "EmotionAnalystApp\\EmotionAnalystApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T12:56:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\EmotionAnalystApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EmotionAnalystApp\\Form1.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\EmotionAnalystApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\EmotionAnalystApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:54:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SentimentMLModel.mbconfig",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\CrossSentimenttMLModel\\SentimentMLModel.mbconfig",
+              "RelativeDocumentMoniker": "CrossSentimenttMLModel\\SentimentMLModel.mbconfig",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\CrossSentimenttMLModel\\SentimentMLModel.mbconfig",
+              "RelativeToolTip": "CrossSentimenttMLModel\\SentimentMLModel.mbconfig",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2025-02-21T12:39:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoAutoMLSentiment\\Form1.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\Form1.cs",
+              "RelativeToolTip": "DemoAutoMLSentiment\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:12:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhMucConnector.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\DanhMucConnector.cs",
+              "RelativeDocumentMoniker": "DAL\\DanhMucConnector.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\DanhMucConnector.cs",
+              "RelativeToolTip": "DAL\\DanhMucConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:01:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoAutoMLSentiment\\Form1.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\Form1.cs [Design]",
+              "RelativeToolTip": "DemoAutoMLSentiment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:58:04.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamConnector.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\SanPhamConnector.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamConnector.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\SanPhamConnector.cs",
+              "RelativeToolTip": "DAL\\SanPhamConnector.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:17:55.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamBinhLuan.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\ObjectModel\\SanPhamBinhLuan.cs",
+              "RelativeDocumentMoniker": "ObjectModel\\SanPhamBinhLuan.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\ObjectModel\\SanPhamBinhLuan.cs",
+              "RelativeToolTip": "ObjectModel\\SanPhamBinhLuan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:47:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmMain.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:38:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\MLModel1_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MLModel1_ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\MLModel1_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "MLModel1_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:09:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MLModel1.mbconfig",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\MLModel1.mbconfig",
+              "RelativeDocumentMoniker": "DemoAutoMLSentiment\\MLModel1.mbconfig",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DemoAutoMLSentiment\\MLModel1.mbconfig",
+              "RelativeToolTip": "DemoAutoMLSentiment\\MLModel1.mbconfig",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2025-02-17T14:00:25.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVienConnector.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\NhanVienConnector.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanVienConnector.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\NhanVienConnector.cs",
+              "RelativeToolTip": "DAL\\NhanVienConnector.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAMwGoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:17:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SQLConnector.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\SQLConnector.cs",
+              "RelativeDocumentMoniker": "DAL\\SQLConnector.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\DAL\\SQLConnector.cs",
+              "RelativeToolTip": "DAL\\SQLConnector.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:57:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDoiMatKhauTuQuanTri.Designer.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.Designer.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.Designer.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:38:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDoiMatKhauTuQuanTri.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:39:32.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmQuanLyNhanVien.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwLsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:47:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuanLySanPhamCSDL.csproj",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\QuanLySanPhamCSDL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T12:37:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\Program.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\Program.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:01:24.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:03:45.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "RelativeToolTip": "QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:58:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\ObjectModel\\NhanVien.cs",
+              "RelativeDocumentMoniker": "ObjectModel\\NhanVien.cs",
+              "ToolTip": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\ObjectModel\\NhanVien.cs",
+              "RelativeToolTip": "ObjectModel\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:12:40.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmQuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:31:00.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDoiMatKhau.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:37:03.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDoiMatKhauTuQuanTri.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDoiMatKhauTuQuanTri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:39:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\DevProjects\\Software\\Application_WinForms\\Course2\\QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLySanPhamCSDL\\frmDangNhap.cs",
+              "ToolTip": "C:\\DevProjects\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\03_Developments\\.NetProjects\\Course2_DAY11_10022025\\Course2\\QuanLySanPhamCSDL\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:50:30.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
